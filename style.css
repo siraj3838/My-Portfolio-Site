@@ -160,6 +160,7 @@ main section{
 .resume-c{
     display: flex;
     gap: 50px;
+    
 }
 
 .resume-item-des{
