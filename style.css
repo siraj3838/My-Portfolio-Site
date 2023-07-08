@@ -81,8 +81,24 @@ nav a{
 }
 
 /* main css*/
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
 
+.about-info-c{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+    color: #757575;
+}
 
+.info-des{
+    font-weight: bold;
+    color: #474747;
+}
 
 /*about css*/
 .about{
