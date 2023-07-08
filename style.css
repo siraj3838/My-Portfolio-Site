@@ -1,4 +1,4 @@
-
+/*nav css*/
 .text-primary{
     color: #FD6E0A;
 }
@@ -19,6 +19,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 200px;
 }
 
 *{
@@ -43,6 +44,24 @@ nav a{
     text-decoration: none;
     color: #181818;
 }
+
+/*header css*/
+
+.header{
+    background: #FFF8F3;
+}
+
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.banner .banner-pic{
+    width: 500px;
+}
+
+
 
 
 
