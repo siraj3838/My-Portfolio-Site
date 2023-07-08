@@ -157,3 +157,37 @@ main section{
     font-weight: 700;
 }
 
+.resume-c{
+    display: flex;
+    gap: 50px;
+}
+
+.resume-item-des{
+    color: #757575;
+    font-size: 16px;
+}
+
+.resume-item-i{
+    color: #757575;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.resume-item-title{
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+}
+
+.resume-c hr{
+    margin: 30px 20px;
+}
+
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+}
+
+/*footer css*/
+
